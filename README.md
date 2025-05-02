@@ -19,5 +19,5 @@
 <h3 align="center">💬 Email</h3>
 <p align="center"><Strong>dlrkdgus999@gmail.com</Strong></p>
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlrkdgus999)](https://solved.ac/dlrkdgus999)
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlrkdgus999)(https://solved.ac/dlrkdgus999)
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=BAD1E6&height=100)
