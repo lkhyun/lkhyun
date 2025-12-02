@@ -8,17 +8,21 @@
 
 ## 🚀 Featured Projects
 
-### **부동산 통계정보 제공 서비스 (pandang)** - SSAFY 1학기 최종 프로젝트
-`Java` `Spring Boot` `MySQL` `2025`
+### **멀티 영상 소스 기반 회의 요약 솔루션(Meethub)** - SSAFY 2학기 자율 프로젝트
+`Java` `Spring Boot` `Python` `LiveKit` `2025.11`
+실시간 회의 요약과 다중 디바이스를 지원하는 플랫폼
+
+### **주말농장 초심자를 위한 관리 서비스(Tium)** - SSAFY 2학기 특화 프로젝트
+`Java` `Spring Boot` `Python` `YOLO` `2025.09`
+작물 추천, 병해 탐지등 주말농장 관리를 위한 서비스
+
+### **부동산 통계정보 제공 서비스 (Pandang)** - SSAFY 1학기 최종 프로젝트
+`Java` `Spring Boot` `MySQL` `2025.05`
 부동산 데이터 기반 통계 정보 제공 서비스
 
 ### **움직임 및 수면자세 모니터링** - 졸업작품
 `Python` `PyTorch` `PVDF Sensor` `2024.11`
 PVDF 센서를 활용한 CNN 기반 수면자세 분류 시스템
-
-### **호흡 모니터링 시스템** - 임베디드 소프트웨어 경진대회
-`Embedded System` `IoT` `2023.12`
-실시간 호흡 패턴 모니터링 임베디드 시스템
 
 <br>
 
@@ -27,7 +31,9 @@ PVDF 센서를 활용한 CNN 기반 수면자세 분류 시스템
 
 | 프로젝트 | 설명 | 기간 | 역할 | 기술스택 | 링크 |
 |---------|------|------|------|----------|------|
-| **pandang** | 부동산 통계정보 서비스 | 2025 | Backend | Java, Spring Boot, MySQL | Private |
+| **Meethub** | 회의 요약 솔루션 | 2025 | Backend | Java, Spring Boot, Python, LiveKit | Private |
+| **Tium** | 주말농장 관리 서비스 | 2025 | Backend | Java, Spring Boot, Python, YOLO | Private |
+| **Pandang** | 부동산 통계정보 서비스 | 2025 | Backend | Java, Spring Boot, MySQL | Private |
 | **graduation_work** | 수면자세 모니터링 시스템 | 2024.11 | AI | Python, PyTorch | [GitHub](https://github.com/lkhyun/graduation_work) |
 | **Object-Tracking-Detection** | 생체공학회 연구 프로젝트 | 2024 | ML Engineer | Python, OpenCV | [GitHub](https://github.com/lkhyun/Object-Tracking-Detection) |
 | **ComCome** | 멋쟁이사자처럼 해커톤 | 2022 | Full Stack | HTML, Django | [GitHub](https://github.com/lkhyun/ComCome) |
@@ -49,18 +55,23 @@ PVDF 센서를 활용한 CNN 기반 수면자세 분류 시스템
 ---
 
 ## 🏆 Awards & Achievements
+**SSAFY 2학기 자율 프로젝트 우수상** `2025.11`  
+멀티 영상 소스 기반 회의 요약 솔루션(Meethub)
 
-**🥇 SSAFY 1학기 최종 프로젝트 최우수상** `2025`  
+**SSAFY 2학기 특화 프로젝트 우수상** `2025.09`  
+주말농장 초심자를 위한 관리 서비스(Tium)
+
+**SSAFY 1학기 최종 프로젝트 최우수상** `2025.05`  
 부동산 통계정보 제공 서비스 (pandang)
 
-**🥈 제21회 임베디드 소프트웨어 경진대회 우수상** `2023.12`  
-호흡 모니터링 시스템 - 한국정보과학회 회장상
-
-**🥈 2024 대한의용생체공학회 추계학술대회** `2024.11`  
+**2024 대한의용생체공학회 추계학술대회** `2024.11`  
 CNN model-based sleep posture classification using PVDF sensor - 우수 포스터 논문상
 
-**🥈 2024 컴퓨터정보공학부 졸업전시회 우수상** `2024.11`  
+**2024 컴퓨터정보공학부 졸업전시회 우수상** `2024.11`  
 움직임 및 수면자세 모니터링
+
+**제21회 임베디드 소프트웨어 경진대회 우수상** `2023.12`  
+호흡 모니터링 시스템 - 한국정보과학회 회장상
 
 ---
 
